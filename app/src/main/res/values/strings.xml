@@ -3,4 +3,28 @@
     <string name="female">Mujer</string>
     <string name="male">Hombre</string>
     <string name="height">Altura</string>
+    <string name="medida">120 cm</string>
+    <string name="rangoaltura">Altura del 120 al 200</string>
+    <string name="weight">Peso</string>
+    <string name="subtract">subtract</string>
+    <string name="plus">plus</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="recalculate">Re-Calcular</string>
+    
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="description_bajo_peso">Estás por debajo de lo óptimo para tu peso y altura.</string>
+
+    <string name="title_peso_normal">Normal</string>
+    <string name="description_peso_normal">Estás en lo óptimo para tu peso y altura.</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Estás por encima de lo óptimo para tu peso y altura.</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Estás por muy por encima de lo óptimo para tu peso y altura.</string>
+
 </resources>
