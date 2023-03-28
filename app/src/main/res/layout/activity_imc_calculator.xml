@@ -31,7 +31,8 @@
                 android:layout_height="60dp"
                 android:layout_marginBottom="8dp"
                 android:src="@drawable/male"
-                app:tint="@color/white" />
+                app:tint="@color/white"
+                android:contentDescription="@string/imageMale" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -66,7 +67,8 @@
                 android:layout_height="60dp"
                 android:layout_marginBottom="8dp"
                 android:src="@drawable/female"
-                app:tint="@color/white" />
+                app:tint="@color/white"
+                android:contentDescription="@string/imageFemale" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -174,20 +176,22 @@
                     android:id="@+id/btnSubtractWeight"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:backgroundTint="@color/background_fab"
+                    android:contentDescription="@string/subtractWeight"
                     android:src="@drawable/ic_subtract"
                     app:tint="@color/white"
-                    android:backgroundTint="@color/background_fab"
-                    android:layout_marginEnd="16dp"
-                    android:contentDescription="@string/subtract" />
+                    tools:ignore="DuplicateSpeakableTextCheck" />
 
                 <com.google.android.material.floatingactionbutton.FloatingActionButton
                     android:id="@+id/btnPlusWeight"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:backgroundTint="@color/background_fab"
+                    android:contentDescription="@string/plusWeight"
                     android:src="@drawable/ic_plus"
                     app:tint="@color/white"
-                    android:backgroundTint="@color/background_fab"
-                    android:contentDescription="@string/plus" />
+                    tools:ignore="DuplicateSpeakableTextCheck" />
 
             </androidx.appcompat.widget.LinearLayoutCompat>
             
@@ -243,7 +247,7 @@
                     app:tint="@color/white"
                     android:backgroundTint="@color/background_fab"
                     android:layout_marginEnd="16dp"
-                    android:contentDescription="@string/subtract" />
+                    android:contentDescription="@string/subtractAge" />
 
                 <com.google.android.material.floatingactionbutton.FloatingActionButton
                     android:id="@+id/btnPlusAge"
@@ -252,7 +256,7 @@
                     android:src="@drawable/ic_plus"
                     app:tint="@color/white"
                     android:backgroundTint="@color/background_fab"
-                    android:contentDescription="@string/plus" />
+                    android:contentDescription="@string/plusAge" />
 
             </androidx.appcompat.widget.LinearLayoutCompat>
 
@@ -262,13 +266,11 @@
 
     <Button
         android:id="@+id/btnCalculate"
-        android:layout_width="480dp"
-        android:layout_height="62dp"
-        android:layout_marginBottom="16dp"
+        android:layout_width="0dp"
+        android:layout_height="80dp"
         android:text="@string/calculate"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

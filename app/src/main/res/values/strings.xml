@@ -26,5 +26,11 @@
 
     <string name="title_obesidad">Obesidad</string>
     <string name="description_obesidad">Estás por muy por encima de lo óptimo para tu peso y altura.</string>
+    <string name="imageMale">image</string>
+    <string name="imageFemale">image</string>
+    <string name="subtractWeight">subtract</string>
+    <string name="plusWeight">plus</string>
+    <string name="subtractAge">subtract</string>
+    <string name="plusAge">plus</string>
 
 </resources>
