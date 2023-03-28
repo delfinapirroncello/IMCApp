@@ -43,6 +43,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="26sp"
+                android:textColor="@color/white"
                 android:textStyle="bold"
                 tools:text="NORMAL"/>
 
@@ -70,8 +71,8 @@
 
     <Button
         android:id="@+id/btnReCalculate"
-        android:layout_width="0dp"
-        android:layout_height="80dp"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
         android:text="@string/recalculate"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
