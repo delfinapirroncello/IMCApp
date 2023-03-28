@@ -1,31 +1,33 @@
 <resources>
     <string name="app_name">IMC App</string>
-    <string name="female">Mujer</string>
-    <string name="male">Hombre</string>
-    <string name="height">Altura</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="height">Height</string>
     <string name="medida">120 cm</string>
     <string name="rangoaltura">Altura del 120 al 200</string>
-    <string name="weight">Peso</string>
+    <string name="weight">Weight</string>
     <string name="subtract">subtract</string>
     <string name="plus">plus</string>
-    <string name="age">Edad</string>
-    <string name="calculate">Calcular</string>
-    <string name="result">Tu resultado</string>
-    <string name="recalculate">Re-Calcular</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Your result</string>
+    <string name="recalculate">Recalculate</string>
     
     <string name="error">Error</string>
 
-    <string name="title_bajo_peso">Bajo peso</string>
-    <string name="description_bajo_peso">Estás por debajo de lo óptimo para tu peso y altura.</string>
+    <string name="title_bajo_peso">Under weight</string>
+    <string name="description_bajo_peso">You are below optimal for your weight and height.</string>
 
     <string name="title_peso_normal">Normal</string>
-    <string name="description_peso_normal">Estás en lo óptimo para tu peso y altura.</string>
+    <string name="description_peso_normal">You are in the optimum for your weight and height.</string>
 
-    <string name="title_sobrepeso">Sobrepeso</string>
-    <string name="description_sobrepeso">Estás por encima de lo óptimo para tu peso y altura.</string>
+    <string name="title_sobrepeso">Overweight</string>
+    <string name="description_sobrepeso">You are above optimal for your weight and height.</string>
 
-    <string name="title_obesidad">Obesidad</string>
-    <string name="description_obesidad">Estás por muy por encima de lo óptimo para tu peso y altura.</string>
+    <string name="title_obesidad">Obesity</string>
+    <string name="description_obesidad">You are well above optimal for your weight and height.</string>
+
+
     <string name="imageMale">image</string>
     <string name="imageFemale">image</string>
     <string name="subtractWeight">subtract</string>
