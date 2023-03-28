@@ -12,17 +12,22 @@ Una App la cual consiste en mostrar el indice de masa corporal (IMC). La pantall
 
 ##Muestras de Pantallas de la App 
 * **Pantalla 1 
+* 
 ![IMCApp1](https://user-images.githubusercontent.com/116289346/228098448-5287abe3-98f9-40dc-bdb8-840899657aac.png)
 
 * **Pantalla 2 - Parte 2.1
+* 
 ![IMCApp2 1](https://user-images.githubusercontent.com/116289346/228098577-ea3045e9-1954-4145-9f8c-67099f5f3609.png)
 
 * **Pantalla 3 - Parte 3.1
+* 
 ![IMCApp2 2](https://user-images.githubusercontent.com/116289346/228098622-2e1d2a40-3eb5-482e-a8c8-794fe67e8bab.png)
 
 * **Pantalla 2 - Parte 2.2
+* 
 ![IMCApp2 1 (2)](https://user-images.githubusercontent.com/116289346/228098983-d27ae0e7-1ae9-4734-aa67-8ce0eb4a891e.png)
 
 * **Pantalla 3 - Parte 3.2
+* 
 ![IMCApp2 1 - Editado](https://user-images.githubusercontent.com/116289346/228099010-afccacac-148b-456b-91d5-0f9c76bcb816.png)
 
