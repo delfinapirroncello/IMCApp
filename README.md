@@ -21,4 +21,4 @@ Una App la cual consiste en mostrar el indice de masa corporal (IMC). Con los da
 
 * **Pantalla 3
 
-![IMC3](https://user-images.githubusercontent.com/116289346/228370385-a436834d-9e2d-4a26-9829-5076b9e7039c.png)
+![IMC3 (2)](https://user-images.githubusercontent.com/116289346/228376804-5a2fb129-d6c9-481e-a0ad-952187651d26.png)
