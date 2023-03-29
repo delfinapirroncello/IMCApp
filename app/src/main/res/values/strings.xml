@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IMC App</string>
+    <string name="app_name">IMCApp</string>
     <string name="female">Female</string>
     <string name="male">Male</string>
     <string name="height">Height</string>
@@ -19,7 +19,7 @@
     <string name="description_bajo_peso">You are below optimal for your weight and height.</string>
 
     <string name="title_peso_normal">Normal</string>
-    <string name="description_peso_normal">You are in the optimum for your weight and height.</string>
+    <string name="description_peso_normal">You are in the optimal for your weight and height.</string>
 
     <string name="title_sobrepeso">Overweight</string>
     <string name="description_sobrepeso">You are above optimal for your weight and height.</string>
