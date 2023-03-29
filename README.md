@@ -1,12 +1,12 @@
 # IMC App
-Una App la cual consiste en mostrar el indice de masa corporal (IMC). Con los datos que se solicitan calculará tu indice de la masa corporal. 
+Una App la cual consiste en mostrar el indice de masa corporal (IMC). Con los datos que se solicitan calculará tu IMC. 
 
 ## Pantallas de IMC App
 * **Pantalla 1: Es la pantalla de inicio. Consiste en dar una bienvenida al usuario, darle una breve descripción de las cualidades de la app y de su función.
  
 * **Pantalla 2: Consiste en mostrar una serie de variantes (altura, peso, edad) para calcular el IMC. Una vez que todos los datos esten completos se tendrá que dar click al botón para saber el resultado.
 
-* **Pantalla 3: Te da el resultado de acuerdo a los datos que adquirió en la pantalla anterior. Tambien un pequeño texto donde explica el resultado. Cuenta con la opción de regresar atrás por si se equivocó en algun dato o desea colocar diferentes datos.
+* **Pantalla 3: Muestra el resultado de acuerdo a los datos que adquirió en la pantalla anterior. Tambien un pequeño texto donde explíca el resultado. Cuenta con la opción de regresar para atrás por si se equivocó en algun dato o desea colocar diferentes datos.
 
 ##Muestras de Pantallas de la App 
 * **Pantalla 1 
