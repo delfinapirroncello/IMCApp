@@ -1,6 +1,46 @@
 <resources>
-    <string name="app_name">MultiApp</string>
-    <string name="female">Mujer</string>
-    <string name="male">Hombre</string>
-    <string name="height">Altura</string>
+    <string name="app_name">IMCApp</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="height">Height</string>
+    <string name="medida">120 cm</string>
+    <string name="rangoaltura">Altura del 120 al 200</string>
+    <string name="weight">Weight</string>
+    <string name="subtract">subtract</string>
+    <string name="plus">plus</string>
+    <string name="age">Age</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Your result</string>
+    <string name="recalculate">Recalculate</string>
+    
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Under weight</string>
+    <string name="description_bajo_peso">You are below optimal for your weight and height.</string>
+
+    <string name="title_peso_normal">Normal</string>
+    <string name="description_peso_normal">You are in the optimal for your weight and height.</string>
+
+    <string name="title_sobrepeso">Overweight</string>
+    <string name="description_sobrepeso">You are above optimal for your weight and height.</string>
+
+    <string name="title_obesidad">Obesity</string>
+    <string name="description_obesidad">You are well above optimal for your weight and height.</string>
+
+
+    <string name="imageMale">image</string>
+    <string name="imageFemale">image</string>
+    <string name="subtractWeight">subtract</string>
+    <string name="plusWeight">plus</string>
+    <string name="subtractAge">subtract</string>
+    <string name="plusAge">plus</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+    <string name="pulsame">Pulsame</string>
+    <string name="ingrese_su_nombre">Ingrese su nombre</string>
+    <string name="bienvenidos_a_imc">Bienvenidos a IMC</string>
+    <string name="salud_app">Salud App</string>
+    <string name="imc_app">Start</string>
+    <string name="introduccion">Speed, easy and precision</string>
+    <string name="Introduction">Find out if you are in your ideal weight.</string>
+
 </resources>
